@@ -4,8 +4,6 @@ A simple quiz application built with HTML, CSS and JavaScript.
 
 ## Live Demo
 
-## Live Demo
-
 [Try the quiz](https://theoslarsson.github.io/Quiz-app/)
 
 ## Features
